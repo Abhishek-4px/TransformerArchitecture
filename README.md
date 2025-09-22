@@ -35,7 +35,7 @@ The Transformer relies entirely on **self-attention** and **feed-forward layers*
 
 | Epoch | Training Loss | Validation Loss |
 |-------|---------------|-----------------|
-| 1     | 2.49          | 2.49            |
+| 1     | 2.49          | 2.66            |
 | 7     | 0.68          | 0.78            |
 
 ---
