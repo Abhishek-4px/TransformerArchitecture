@@ -24,7 +24,7 @@ The model has been implemented without relying on high-level libraries (like Hug
 The Transformer relies entirely on **self-attention** and **feed-forward layers**, removing recurrence and convolutions.
 
 <p align="center">
-  <img src="transformer.png" width="700" alt="Transformer Architecture">
+ <img src="Transformer.png" width="700" alt="Transformer Architecture">
 </p>
 
 ---
