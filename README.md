@@ -7,7 +7,6 @@ The model has been implemented without relying on high-level libraries (like Hug
 
 ---
 
-g
 ## 📌 Technical Details
 
 - **Architecture**: Encoder-Decoder Transformer (Multi-Head Attention, Positional Encoding, Layer Normalization, Residual Connections, Feed-Forward Networks).  
