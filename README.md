@@ -3,7 +3,7 @@
 This repository contains the **complete architecture of a Transformer built from scratch in PyTorch**, strictly following the original paper:  
 **"Attention Is All You Need" (Vaswani et al., 2017).**
 
-The model has been implemented without relying on high-level libraries (like Hugging Face’s prebuilt Transformers), ensuring you understand the core mechanism of attention, positional encoding, encoder-decoder stacks, and training workflow.\
+The model has been implemented without relying on high-level libraries (like Hugging Face’s prebuilt Transformers), ensuring you understand the core mechanism of attention, positional encoding, encoder-decoder stacks, and training workflow.\/
 
 ---
 
