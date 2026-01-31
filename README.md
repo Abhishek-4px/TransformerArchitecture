@@ -70,3 +70,8 @@ These results demonstrate that the model successfully learned meaningful English
    ```bash
    git clone https://github.com/your-username/TransformerArchitecture.git
    cd TransformerArchitecture
+
+## If the files shows error : Try this link
+
+https://colab.research.google.com/drive/1dF1WYDJajxxNmOhbG9QUXtgVAbdWRbAg
+   
